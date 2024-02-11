@@ -1,2 +1,2 @@
 # petyaparody
-this parody petya not run in real device and copy all files on desktop and start bat with copy in desktop
+this parody petya don't run on a real device and copy all files on desktop and start bat with copy in desktop
